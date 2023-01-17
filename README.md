@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, I'm Muhammad Imtiaz Hossain</h1>
+<h1 align="center">Hello, I'm Muhammad Imtiaz Hossain</h1>
 <h3 align="center">I am studying BSc in CSE at International Islamic University Chittagong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-mtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="i-mtiaz" /> </p>
