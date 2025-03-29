@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-mtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="i-mtiaz" /> </p>
 
-- 🌱 I’m currently learning **React, Nodejs, MongoDB**
+- 🌱 I’m currently working **React, Nodejs, MongoDB, React-Native**
 
-- 💬 Ask me about **C & C++**
+- 💬 Ask me about **C & C++, React-Native**
 
 - 📫 How to reach me **imtiazrihab97@gmail.com**
 
