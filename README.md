@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C & C++, React-Native, PowerBi**
 
-- 📫 How to reach me **imtiazrihab97@gmail.com**
+- 📫 How to reach me **imtiazhoss97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
